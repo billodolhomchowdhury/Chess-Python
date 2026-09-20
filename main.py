@@ -15,7 +15,7 @@ Data={  "AA":"WR","AB":"WK","AC":"WB","AD":"WQ","AE":"WH","AF":"WB","AG":"WK","A
         "BA":"WP","BB":"WP","BC":"WP","BD":"WP","BE":"WP","BF":"WP","BG":"WP","BH":"WP",
         "CA":"   ","CB":"   ","CC":"   ","CD":"   ","CE":"   ","CF":"   ","CG":"   ","CH":"   ",
         "DA":"   ","DB":"   ","DC":"   ","DD":"   ","DE":"   ","DF":"   ","DG":"   ","DH":"   ",
-        "EA":"   ","EB":"   ","EC":"   ","ED":"SH","EE":"WH","EF":"   ","EG":"   ","EH":"WB",
+        "EA":"   ","EB":"   ","EC":"   ","ED":"   ","EE":"   ","EF":"   ","EG":"   ","EH":"   ",
         "FA":"   ","FB":"   ","FC":"   ","FD":"   ","FE":"   ","FF":"   ","FG":"   ","FH":"   ",
         "GA":"SP","GB":"SP","GC":"SP","GD":"SP","GE":"SP","GF":"SP","GG":"SP","GH":"SP",
         "HA":"SR","HB":"SK","HC":"SB","HD":"SQ","HE":"SH","HF":"SB","HG":"SK","HH":"SR",
@@ -23,7 +23,7 @@ Data={  "AA":"WR","AB":"WK","AC":"WB","AD":"WQ","AE":"WH","AF":"WB","AG":"WK","A
 
 Icons = {   "WH":" ♚ ", "WQ":" ♛ ", "WR":" ♜ ","WB":" ♝ ","WK":" ♞ ","WP":" ♟ ",
             "SH":" ♔ ", "SQ":" ♕ ", "SR":" ♖ ","SB":" ♗ ","SK":" ♘ ","SP":" ♙ ",
-            "   ": " $ "
+            "   ": "   "
         }
 
 
